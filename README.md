@@ -2,6 +2,7 @@
 # Quiz App
 
 Este projeto é um Quiz desenvolvido com React, Next.js, Tailwind CSS e TypeScript. Ele permite que os usuários respondam a uma série de perguntas e, ao final, exibe as alternativas corretas e erradas.
+![image](https://github.com/aureliodeboa/Quiz-app/assets/53971991/a2835804-fe55-4ea5-a62d-05c533069c5a)
 
 ## Funcionalidades
 
