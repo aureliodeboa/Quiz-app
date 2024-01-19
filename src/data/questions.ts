@@ -10,7 +10,7 @@ export const questions: Question [] = [
         'Brasil',
         'Rússia',
         ],
-        answer: 1,
+        answer: 0,
     },
     {
         question: "Quem foi o primeiro presidente dos Estados Unidos?",
